@@ -74,6 +74,7 @@ app.listen(PORT, () => {
   console.log(`Server running on port: ${PORT}`)
 });
 
+// Moved this GET * to the last part of the code, just in case none of the above ones are used.
 app.get('*', (req, res) => {
     res.sendFile(path.join(__dirname + '/public/index.html'));
     });
