@@ -21,6 +21,6 @@ If you also want to go directly to the notes list, you can add '*/api/notes*' at
 ---
 
 ### Info:
-Github repository: 
+Github repository: https://github.com/BryanGC96/Note-Taker
 
-Application URL: 
+Application URL: https://peaceful-bastion-64478-d37d38b4fcf9.herokuapp.com/
